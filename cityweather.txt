@@ -1,3 +1,0 @@
-https://api.openweathermap.org/data/2.5/weather?id={city id}&appid=a063af792a4076de95aa18c36edb7bc9
-
-https://api.openweathermap.org/data/2.5/weather?q=paris&appid=a063af792a4076de95aa18c36edb7bc9&units=metric
